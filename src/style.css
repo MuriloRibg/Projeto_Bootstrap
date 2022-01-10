@@ -1,0 +1,13 @@
+.imagem-carrosel {
+    object-fit: cover; /* vai preencher o seu contener, preservando a proporção */
+    object-position: 0 80%; /* mover o objeto no eixo x, y */
+    height: 400px;
+}
+
+.fonte-titulo {
+    font-family: 'Pacifico', cursive;
+}
+
+.cor-especial {
+    color: darkred;
+}
